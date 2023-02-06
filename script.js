@@ -1,4 +1,4 @@
-"use script";
+"use strict";
 // Get the elements from the HTML
 const firstNumberInput = document.getElementById("firstnumber");
 const secondNumberInput = document.getElementById("secondnumber");
